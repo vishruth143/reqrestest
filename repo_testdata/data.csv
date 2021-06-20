@@ -1,0 +1,8 @@
+endpoint,email,password
+api/register/preprod,eve.holt1@reqres.in,pistol1
+api/register/preprod,eve.holt2@reqres.in,pistol2
+api/register/preprod,eve.holt3@reqres.in,pistol3
+api/register/preprod,eve.holt4@reqres.in,pistol4
+api/register/preprod,eve.holt5@reqres.in,pistol5
+api/register/preprod,eve.holt6@reqres.in,pistol6
+api/register/preprod,eve.holt7@reqres.in,pistol7
